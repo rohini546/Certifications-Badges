@@ -1,2 +1,2 @@
 # Certifications-Badges
-This repository contents my certification and badges related to Quantum Computing.
+This repository containts my certification and badges related to Quantum Computing.
